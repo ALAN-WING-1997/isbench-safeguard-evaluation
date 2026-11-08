@@ -1,0 +1,96 @@
+{
+  "notebooks/00_setup_colab.ipynb": {
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/10_A_baseline.ipynb": {
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/11_B_generic_reminder.ipynb": {
+    "ACCOUNTING_SOURCE": "4e465d2888001de118ac06dac8ff585134eea62e0cae7b0893d3b6af43afee3e",
+    "SESSION_DRIVER_SOURCE": "50887e3831dfa82936dbc5fc493a82ec9467a0e7f852c22f7cf520e88c5650f1",
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/12_C_homeguard_l3.ipynb": {
+    "ACCOUNTING_SOURCE": "4e465d2888001de118ac06dac8ff585134eea62e0cae7b0893d3b6af43afee3e",
+    "SESSION_DRIVER_SOURCE": "50887e3831dfa82936dbc5fc493a82ec9467a0e7f852c22f7cf520e88c5650f1",
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/13_D_embguard.ipynb": {
+    "ACCOUNTING_SOURCE": "4e465d2888001de118ac06dac8ff585134eea62e0cae7b0893d3b6af43afee3e",
+    "SESSION_DRIVER_SOURCE": "50887e3831dfa82936dbc5fc493a82ec9467a0e7f852c22f7cf520e88c5650f1",
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/20_compare_ABCD.ipynb": {
+    "ACCOUNTING_SOURCE": "4e465d2888001de118ac06dac8ff585134eea62e0cae7b0893d3b6af43afee3e",
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/archive/embguard_message_fix/13_D_embguard_trial.ipynb": {
+    "SOURCES": "05049633a703f9cd38c986b9aab67c1fa7cedb54966d817a18baeedfe3e4d74c"
+  },
+  "notebooks/archive/homeguard_format_fix/12_C_homeguard_trial.ipynb": {
+    "SOURCES": "8ed77ec513355c8b9c4a49d176b7c11c924d305aa6732b37ab00c27706e02415"
+  },
+  "notebooks/archive/pilot/02_inference_setup.ipynb": {
+    "SOURCES": "51f182ec5c2186b6d79ccb53a5b49f0a27b5b4740dbe51040e8727b4f625db13"
+  },
+  "notebooks/archive/pilot/03_planner_generation_diagnostic.ipynb": {
+    "SOURCES": "3bbc827598668f81bb490888591d7cb6fc45d7f05f808b1a98f455265d49b7d9"
+  },
+  "notebooks/archive/pilot/10_A_baseline_trial.ipynb": {
+    "SOURCES": "51f182ec5c2186b6d79ccb53a5b49f0a27b5b4740dbe51040e8727b4f625db13"
+  },
+  "notebooks/archive/pilot/11_B_generic_reminder_trial.ipynb": {
+    "SOURCES": "51f182ec5c2186b6d79ccb53a5b49f0a27b5b4740dbe51040e8727b4f625db13"
+  },
+  "notebooks/archive/pilot/12_C_homeguard_trial.ipynb": {
+    "SOURCES": "51f182ec5c2186b6d79ccb53a5b49f0a27b5b4740dbe51040e8727b4f625db13"
+  },
+  "notebooks/archive/pilot/13_D_embguard_trial.ipynb": {
+    "SOURCES": "51f182ec5c2186b6d79ccb53a5b49f0a27b5b4740dbe51040e8727b4f625db13"
+  },
+  "notebooks/archive/pilot/20_compare_trials.ipynb": {
+    "SOURCES": "51f182ec5c2186b6d79ccb53a5b49f0a27b5b4740dbe51040e8727b4f625db13"
+  },
+  "notebooks/archive/rerun_8192/10_A_baseline_trial.ipynb": {
+    "SOURCES": "7cfe700ecf919879b0e57e10eef5b43590db7e0a73f44381691db60c0750feb1"
+  },
+  "notebooks/archive/rerun_8192/11_B_generic_reminder_trial.ipynb": {
+    "SOURCES": "7cfe700ecf919879b0e57e10eef5b43590db7e0a73f44381691db60c0750feb1"
+  },
+  "notebooks/archive/rerun_8192/12_C_homeguard_trial.ipynb": {
+    "SOURCES": "7cfe700ecf919879b0e57e10eef5b43590db7e0a73f44381691db60c0750feb1"
+  },
+  "notebooks/archive/rerun_8192/13_D_embguard_trial.ipynb": {
+    "SOURCES": "7cfe700ecf919879b0e57e10eef5b43590db7e0a73f44381691db60c0750feb1"
+  },
+  "notebooks/archive/rerun_8192/20_compare_trials.ipynb": {
+    "SOURCES": "7cfe700ecf919879b0e57e10eef5b43590db7e0a73f44381691db60c0750feb1"
+  },
+  "notebooks/archive/sampling_8192/02_inference_setup.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/sampling_8192/03_planner_request_replay.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/sampling_8192/10_A_baseline_trial.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/sampling_8192/11_B_generic_reminder_trial.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/sampling_8192/12_C_homeguard_trial.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/sampling_8192/13_D_embguard_trial.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/sampling_8192/20_compare_trials.ipynb": {
+    "SOURCES": "be63d21cf0630661fa1dc1e655c48fdfa0b5e57a0a9b9a9b1704b98059bbde71"
+  },
+  "notebooks/archive/split_setup/02_inference_setup.ipynb": {
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  },
+  "notebooks/archive/split_setup/03_task_preflight.ipynb": {
+    "SOURCES": "3daa0d1d2487bc6cbd209d67eb6e3562f3e514dae1687aabbb17579c391a5a3f"
+  }
+}

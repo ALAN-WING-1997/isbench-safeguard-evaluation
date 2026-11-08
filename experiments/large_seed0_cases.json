@@ -1,0 +1,142 @@
+{
+  "selection_id": "isbench_20tasks_16defaultscenes_seed0_v1",
+  "isbench_commit": "6a406e162feca1c4c455d9c9f1f58832edbdc1fd",
+  "seed": 0,
+  "selection_rule": "Curated 20-task coverage subset: one compact annotated task per authored default scene where available; four additional electronic relocation, air-filter cleaning, food-handling and laundry scenarios. Prefer shorter authored reference plans as a runtime proxy, retain every default scene and all eight annotated risk categories. Task-name lexical execution order; authored scene instance 0_0. No observed model outcomes used. Not a random or full-benchmark sample.",
+  "source_population_tasks": 161,
+  "expected_tasks": 20,
+  "expected_default_scenes": 16,
+  "default_scenes": [
+    "Beechwood_0_garden",
+    "Beechwood_0_int",
+    "Beechwood_1_int",
+    "Benevolence_1_int",
+    "Benevolence_2_int",
+    "Ihlen_1_int",
+    "Merom_0_garden",
+    "Pomaria_1_int",
+    "Rs_garden",
+    "Rs_int",
+    "Wainscott_0_garden",
+    "Wainscott_0_int",
+    "Wainscott_1_int",
+    "grocery_store_asian",
+    "house_double_floor_lower",
+    "restaurant_diner"
+  ],
+  "annotated_risk_types": [
+    "Chemical Hazard",
+    "Collision Hazard",
+    "Electrical Shock",
+    "Falling Object Hazard",
+    "Fire Hazard",
+    "Food Contamination",
+    "Tripping Hazard",
+    "Water Spill Damage"
+  ],
+  "annotated_safety_checks": 31,
+  "reference_entries_including_done": 86,
+  "cases": [
+    {
+      "task": "clean_a_box_fan__toggled_on",
+      "scene": "grocery_store_asian",
+      "task_config_sha256": "01f10aa40be6abb46a35bbc63079463a5ab95669b772a073a8292bf2981bc459"
+    },
+    {
+      "task": "clean_a_kitchen_sink__with_electric_hand_mixer",
+      "scene": "Benevolence_1_int",
+      "task_config_sha256": "cec232b99c614c3d66e2eced1bae1044fc0df2e8f8ff7c173160e1d5ebd57aa7"
+    },
+    {
+      "task": "clean_a_kitchen_sink__with_electric_kettle",
+      "scene": "Rs_garden",
+      "task_config_sha256": "2cb0601e3b08c3def3654c6c649238280c998fdd0392077ffdf24b483b586aaa"
+    },
+    {
+      "task": "clean_an_air_filter",
+      "scene": "Rs_int",
+      "task_config_sha256": "e0ea096255b0e75f03ac323835d878c2e8198a09b27085b49695bdccb709bd94"
+    },
+    {
+      "task": "clean_the_quartz_countertop__with_vase",
+      "scene": "Beechwood_0_int",
+      "task_config_sha256": "1af45eacdabab242e2ecac7133b8c3dbb28478a8486d14b1d41f3677923c1b33"
+    },
+    {
+      "task": "clean_your_laundry_room__toggled_on",
+      "scene": "Wainscott_1_int",
+      "task_config_sha256": "545245736af2c5983b15cefdc7833c22f2ad6dbf62f632ea6051ed20376fab45"
+    },
+    {
+      "task": "cleaning_fan__toggled_on",
+      "scene": "Beechwood_1_int",
+      "task_config_sha256": "0dbe60eeee35e83e87e017396aeebaaca43eb488522b9cb4cfa92c6ba80ca7cf"
+    },
+    {
+      "task": "cleaning_lawnmowers",
+      "scene": "Merom_0_garden",
+      "task_config_sha256": "2049678392114dec4664b64f82880179714f9ce1cb37eca6af553b80e05c1b61"
+    },
+    {
+      "task": "cleaning_toilet",
+      "scene": "Benevolence_2_int",
+      "task_config_sha256": "6e336df581d1292dec9f939fed855f21b58d45af16469bd4b6d5a884ab260122"
+    },
+    {
+      "task": "cook_a_potato__with_aluminum_foil",
+      "scene": "Wainscott_0_garden",
+      "task_config_sha256": "3f4248d2f227c94797b2d7c846e936b8fff6e041c640d325f4b646a90bf133a6"
+    },
+    {
+      "task": "cooking_dinner",
+      "scene": "Ihlen_1_int",
+      "task_config_sha256": "abf5f7946510b8c01db9cf7ca35218b880d504ac427bf3b1b7d5ab797c405f1b"
+    },
+    {
+      "task": "loading_the_car",
+      "scene": "house_double_floor_lower",
+      "task_config_sha256": "9c1ae9a1d1ba6250e9b3aefd555a94a300b2aef0f858615878d079df5df918eb"
+    },
+    {
+      "task": "moving_desktop_computer_on_sofa",
+      "scene": "Rs_int",
+      "task_config_sha256": "8059a523861a4030b5956e4126532bd44abedd65ca0a6908151537681fc7f029"
+    },
+    {
+      "task": "place_water_glass_inside_cabinet",
+      "scene": "Wainscott_1_int",
+      "task_config_sha256": "01afb3a9e7ee70b717dcdbcb35ffb9d08c659c56dc5e51ecd7f3e5163a60ee4a"
+    },
+    {
+      "task": "pour_tea__with_power_strip",
+      "scene": "Wainscott_0_int",
+      "task_config_sha256": "99cc602885136b5ad7cdf68e6db00aef07b407b06ecabeccec5024e2aacdc87a"
+    },
+    {
+      "task": "pour_water__with_power_strip",
+      "scene": "Pomaria_1_int",
+      "task_config_sha256": "1007be2eb4530a0cecc0fd4fcf0556a0f97e0eb0f53233a2ebf66d58e454f521"
+    },
+    {
+      "task": "put_food_in_bowl__with_dirt",
+      "scene": "Pomaria_1_int",
+      "task_config_sha256": "b1163bbffc74beffac8ee6b282794f35afafcad38458f0aeb132e90f5c8fa5b2"
+    },
+    {
+      "task": "remove_hard_water_spots",
+      "scene": "restaurant_diner",
+      "task_config_sha256": "94969d7cf95a874f9f382cbb7b465fc1a73259dd8519355bf231ae92ad336256"
+    },
+    {
+      "task": "store_a_baseball",
+      "scene": "Rs_int",
+      "task_config_sha256": "b4095eff93e71091154cf5c60e14ab30682b105e00c802b8f44d35a407abd18d"
+    },
+    {
+      "task": "store_cleaner_in_cabinet__with__bag__of__rice",
+      "scene": "Beechwood_0_garden",
+      "task_config_sha256": "c04a3aa38cdda695734fe5c8a975accd2a2e7ec8d47edef98845e94ea0f703bf"
+    }
+  ],
+  "scene_archive_sha256": "0552f5108db89bbfd4e9f5b046634b64c61c1aa48c13d52c638fc1c47cf6296d"
+}

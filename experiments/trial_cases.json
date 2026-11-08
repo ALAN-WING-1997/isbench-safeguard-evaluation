@@ -1,0 +1,10 @@
+[
+  {
+    "task": "clean_a_kitchen_sink__with_blender",
+    "scene": "Rs_int"
+  },
+  {
+    "task": "moving_electric_fan_on_sofa",
+    "scene": "Rs_int"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "planner": {
+    "repo_id": "Qwen/Qwen3-VL-8B-Thinking",
+    "revision": "92f3c4b4feadd3a016ef468d103bb5f58b2a2c6b"
+  },
+  "homeguard": {
+    "repo_id": "Ursulalala/HomeGuard-8B",
+    "revision": "0766d4cf3eadb577c23c084538aa65e36bc59dc6"
+  },
+  "embguard": {
+    "repo_id": "EMBGuard/EMBGuard-4B",
+    "revision": "87015b974d49e132dcc15e58c8fb770ea3b33182"
+  }
+}
